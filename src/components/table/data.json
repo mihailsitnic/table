@@ -1,0 +1,150 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Анастасия Стрельникова",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/belyaev_rs/128.jpg",
+            "email": "anastas.strelnik@gmail.com",
+            "phone": "068993458",
+            "status": "active"
+        },
+        {
+            "id": "2",
+            "name": "Джон Конор",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/yehudab/128.jpg",
+            "email": "john.t2@yahoo.com",
+            "status": "invited"
+        },
+        {
+            "id": "3",
+            "name": "Джессика Альба",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/fabbianz/128.jpg",
+            "email": "jessica.thebest@alba.eu",
+            "status": "inactive"
+        },
+        {
+            "id": "4",
+            "name": "Моника Белуччи",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/geobikas/128.jpg",
+            "email": "monica@mail.ru",
+            "status": "active"
+        },
+        {
+            "id": "5",
+            "name": "Брэд Питт",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bertboerland/128.jpg",
+            "email": "pitt@hollywood.com",
+            "status": "inactive"
+        },
+        {
+            "id": "6",
+            "name": "Анастасия Стрельникова",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/belyaev_rs/128.jpg",
+            "email": "anastas.strelnik@gmail.com",
+            "phone": "068993458",
+            "status": "active"
+        },
+        {
+            "id": "7",
+            "name": "Джон Конор",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/yehudab/128.jpg",
+            "email": "john.t2@yahoo.com",
+            "status": "invited"
+        },
+        {
+            "id": "8",
+            "name": "Джессика Альба",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/fabbianz/128.jpg",
+            "email": "jessica.thebest@alba.eu",
+            "status": "inactive"
+        },
+        {
+            "id": "9",
+            "name": "Моника Белуччи",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/geobikas/128.jpg",
+            "email": "monica@mail.ru",
+            "status": "active"
+        },
+        {
+            "id": "10",
+            "name": "Брэд Питт",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bertboerland/128.jpg",
+            "email": "pitt@hollywood.com",
+            "status": "inactive"
+        },
+        {
+            "id": "11",
+            "name": "Анастасия Стрельникова",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/belyaev_rs/128.jpg",
+            "email": "anastas.strelnik@gmail.com",
+            "phone": "068993458",
+            "status": "active"
+        },
+        {
+            "id": "12",
+            "name": "Джон Конор",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/yehudab/128.jpg",
+            "email": "john.t2@yahoo.com",
+            "status": "invited"
+        },
+        {
+            "id": "13",
+            "name": "Джессика Альба",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/fabbianz/128.jpg",
+            "email": "jessica.thebest@alba.eu",
+            "status": "inactive"
+        },
+        {
+            "id": "14",
+            "name": "Моника Белуччи",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/geobikas/128.jpg",
+            "email": "monica@mail.ru",
+            "status": "active"
+        },
+        {
+            "id": "15",
+            "name": "Брэд Питт",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bertboerland/128.jpg",
+            "email": "pitt@hollywood.com",
+            "status": "inactive"
+        },
+        {
+            "id": "16",
+            "name": "Анастасия Стрельникова",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/belyaev_rs/128.jpg",
+            "email": "anastas.strelnik@gmail.com",
+            "phone": "068993458",
+            "status": "active"
+        },
+        {
+            "id": "17",
+            "name": "Джон Конор",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/yehudab/128.jpg",
+            "email": "john.t2@yahoo.com",
+            "status": "invited"
+        },
+        {
+            "id": "18",
+            "name": "Джессика Альба",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/fabbianz/128.jpg",
+            "email": "jessica.thebest@alba.eu",
+            "status": "inactive"
+        },
+        {
+            "id": "19",
+            "name": "Моника Белуччи",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/geobikas/128.jpg",
+            "email": "monica@mail.ru",
+            "status": "active"
+        },
+        {
+            "id": "20",
+            "name": "Брэд Питт",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bertboerland/128.jpg",
+            "email": "pitt@hollywood.com",
+            "status": "inactive"
+        }
+    ],
+    "count": 20,
+    "total": 20
+}
